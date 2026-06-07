@@ -22,9 +22,9 @@ A comprehensive Excel-based dashboard featuring real-time sales forecasting, dem
 
 ## Dashboard
 
-![alt text](<P4 O S3.png>) 
 ![alt text](<P4 O S1.png>) 
-![alt text](<P4 O S2.png>)
+![alt text](<P4 O S2.png>) 
+![alt text](<P4 O S3.png>)
 
 ## What You'll Find
 - **Total Sales**: ₹45+ Cr across 2023-2024
